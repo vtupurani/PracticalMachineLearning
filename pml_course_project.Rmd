@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 title: "PRACTICAL MACHINE LEARNING COURSE PROJECT"
 author: "Vyjayanthi TUPURANI"
@@ -125,6 +125,5 @@ Using random forest, predictions of outcome levels of original testingdata
 predictFinal <- predict( model2, testingData, type ="class")
 predictFinal
 ```
-=======
->>>>>>> f15fd41e9a1a90445a58f1cae1da480cf6c140a6
+ 
 
